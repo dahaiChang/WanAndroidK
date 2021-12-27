@@ -38,6 +38,8 @@ dependencies {
     implementation Deps.constraintlayout
     implementation Deps.core_ktx
 
+    implementation 'com.tencent:mmkv-static:1.2.10'
+
 
     implementation project(path: ':mvvmcore')
 }
