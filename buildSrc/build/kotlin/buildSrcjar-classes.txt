@@ -1,0 +1,1 @@
+D:\AndroidProject\WanAndroidK\WanAndroidK\buildSrc\build\classes\kotlin\main\Deps.class;D:\AndroidProject\WanAndroidK\WanAndroidK\buildSrc\build\classes\kotlin\main\Versions.class
